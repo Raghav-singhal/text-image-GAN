@@ -14,8 +14,13 @@
     "*.fls",
     "*.fls",
     "*.out",
-    "*.fdb_latexmk"
-  ]
+    "*.fdb_latexmk",
+    "*.snm",
+    "*.bbl",
+    "*.nav"
+    ]
+
 		}
 	]
 }
+

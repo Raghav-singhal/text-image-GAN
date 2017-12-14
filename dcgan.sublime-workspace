@@ -87,6 +87,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "poster_cv/poster_main.tex",
+			"settings":
+			{
+				"buffer_size": 10873,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n\t\"auto_complete\":\n\t{\n\t\t\"selected_items\":\n\t\t[\n\t\t\t[\n\t\t\t\t\"te\",\n\t\t\t\t\"\\\\textbf{text}                                     \\tlatex-document\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"textb\",\n\t\t\t\t\"\\\\textbf{text}                                     \\tlatex-document\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"alp\",\n\t\t\t\t\"\\\\alpha                                            \\tlatex-mathsymbols\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"text\",\n\t\t\t\t\"\\\\textbackslash                                    \\tlatex-document\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"impl\",\n\t\t\t\t\"\\\\implies                                          \\tamsmath\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"model\",\n\t\t\t\t\"model_data\\tstatement\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"grad\",\n\t\t\t\t\"grad_norm\\tstatement\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"train\",\n\t\t\t\t\"train_accuracy\\tstatement\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"test\",\n\t\t\t\t\"test_loss\\tstatement\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"mak\",\n\t\t\t\t\"makedirs\\tfunction\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"sec\",\n\t\t\t\t\"\\\\section{title}                                   \\tlatex-document\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"plot\",\n\t\t\t\t\"plot_count\\tparam\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"x\",\n\t\t\t\t\"xlim\\tfunction\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"Train\",\n\t\t\t\t\"train_progress\\tfunction\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"accept\",\n\t\t\t\t\"accept_r\\tstatement\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"acce\",\n\t\t\t\t\"accept_r\\tstatement\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"as\",\n\t\t\t\t\"asarray\\tfunction\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"hmc\",\n\t\t\t\t\"hmc_steps\\tparam\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"def\",\n\t\t\t\t\"defs\\tMethod\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"clas\",\n\t\t\t\t\"class\\tNew Class\"\n\t\t\t]\n\t\t]\n\t},\n\t\"buffers\":\n\t[\n\t],\n\t\"build_system\": \"\",\n\t\"build_system_choices\":\n\t[\n\t\t[\n\t\t\t[\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"Traditional\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"PdfLaTeX\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"XeLaTeX\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"LuaLaTeX\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"Basic Builder\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"Basic Builder - PdfLaTeX\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"Basic Builder - XeLaTeX\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"Basic Builder - LuaLaTeX\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"Script Builder\"\n\t\t\t\t]\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\"PdfLaTeX\"\n\t\t\t]\n\t\t],\n\t\t[\n\t\t\t[\n\t\t\t\t[\n\t\t\t\t\t\"Project Build\",\n\t\t\t\t\t\"\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"Traditional\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"PdfLaTeX\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"XeLaTeX\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"LuaLaTeX\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"Basic Builder\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"Basic Builder - PdfLaTeX\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"Basic Builder - XeLaTeX\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"Basic Builder - LuaLaTeX\"\n\t\t\t\t],\n\t\t\t\t[\n\t\t\t\t\t\"Packages/LaTeXTools/LaTeX.sublime-build\",\n\t\t\t\t\t\"Script Builder\"\n\t\t\t\t]\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"Project Build\",\n\t\t\t\t\"\"\n\t\t\t]\n\t\t]\n\t],\n\t\"build_varint\": \"\",\n\t\"command_palette\":\n\t{\n\t\t\"height\": 96.0,\n\t\t\"last_filter\": \"Package Control: remo\",\n\t\t\"selected_items\":\n\t\t[\n\t\t\t[\n\t\t\t\t\"Package Control: remo\",\n\t\t\t\t\"Package Control: Remove Package\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"install\",\n\t\t\t\t\"Package Control: Install Package\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"mar\",\n\t\t\t\t\"Markdown Preview: Preview in Browser\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"Package Control: \",\n\t\t\t\t\"Package Control: Remove Package\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"mark\",\n\t\t\t\t\"Markdown Preview: Preview in Browser\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"in\",\n\t\t\t\t\"Package Control: Install Package\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"git \",\n\t\t\t\t\"Git: Commit\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"\",\n\t\t\t\t\"LaTeXTools: Reset user settings to default\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"latextoo\",\n\t\t\t\t\"LaTeXTools: Check system\"\n\t\t\t],\n\t\t\t[\n\t\t\t\t\"latex\",\n\t\t\t\t\"LaTeXTools: Jump to PDF\"\n\t\t\t]\n\t\t],\n\t\t\"width\": 459.0\n\t},\n\t\"console\":\n\t{\n\t\t\"height\": 130.0,\n\t\t\"history\":\n\t\t[\n\t\t\t\"sublime.version()\",\n\t\t\t\"mnist_rk4\",\n\t\t\t\"def f(x):\",\n\t\t\t\"1+1\",\n\t\t\t\"import numpy as np\",\n\t\t\t\"ls\",\n\t\t\t\";s\",\n\t\t\t\"cd\",\n\t\t\t\"1+1\",\n\t\t\t\"which python\",\n\t\t\t\"import numpy as np\",\n\t\t\t\"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)\"\n\t\t]\n\t},\n\t\"distraction_free\":\n\t{\n\t\t\"menu_visible\": true,\n\t\t\"show_minimap\": false,\n\t\t\"show_open_files\": false,\n\t\t\"show_tabs\": false,\n\t\t\"side_bar_visible\": false,\n\t\t\"status_bar_visible\": false\n\t},\n\t\"expanded_folders\":\n\t[\n\t\t\"/Users/rsinghal/Desktop/HomeWork/computer_vision/project/dcgan\"\n\t],\n\t\"file_history\":\n\t[\n\t\t\"/Users/rsinghal/Desktop/optimizerProof/proper_file/main.tex\",\n\t\t\"/Users/rsinghal/Desktop/optimizerProof/proper_file/notes.tex\",\n\t\t\"/Users/rsinghal/Desktop/optimizerProof/proper_file/rk2_heun_notStrong.tex\",\n\t\t\"/Users/rsinghal/Desktop/optimizerProof/proper_file/main.pdf\",\n\t\t\"/Users/rsinghal/Desktop/optimizerProof/proper_file/opti_inf.sublime-project\",\n\t\t\"/Users/rsinghal/Desktop/optimizerProof/proper_file/strongConvex.tex\",\n\t\t\"/Users/rsinghal/Desktop/optimizerProof/proper_file/rk2_ralston_notStrong.tex\",\n\t\t\"/Users/rsinghal/Desktop/optimizerProof/proper_file/ode_ideas.tex\",\n\t\t\"/Users/rsinghal/Desktop/optimizerProof/proper_file/experiments.tex\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/rk2_paper/runge_kutta.tex\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/rk2_paper/runge_kutta\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/rk4/rk4-experiments/courant_hpc/courant_cifar/main.py\",\n\t\t\"/Users/rsinghal/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings\",\n\t\t\"/Users/rsinghal/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings\",\n\t\t\"/Users/rsinghal/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Default (OSX).sublime-keymap\",\n\t\t\"/Users/rsinghal/Desktop/daily-work-pdf/28nov2017.tex\",\n\t\t\"/Users/rsinghal/Desktop/daily-work-pdf/adityaRamesh/log_det.tex\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/rk4/rk4-experiments/courant_hpc/newProgress.py\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/rk4/rk4-experiments/courant_hpc/VAE/newProgress.py\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/rk4/rk4-experiments/courant_hpc/courant_cifar/newProgress.py\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/rk4/rk4-experiments/courant_hpc/VAE/grad_Utils.py\",\n\t\t\"/Users/rsinghal/Desktop/daily-work-pdf/stuff-to-look-at.tex\",\n\t\t\"/Users/rsinghal/Desktop/HomeWork/computer_vision/project/pdf_project/cv_project.tex\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/rk4/rk4-experiments/pdf_doc/rungeKutta1.tex\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/rk4/rk4-experiments/pdf_doc/new_dir/rungeKutta1.tex\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/rk4/rk4-experiments/pdf_doc/new_dir/rk2.md\",\n\t\t\"/Users/rsinghal/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/LaTeXTools.sublime-settings\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/text-files/immediate.txt\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/tutorials/c++Tutorials/tutorial.cpp\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/rk4/rk4-experiments/tutorial.cpp\",\n\t\t\"/Users/rsinghal/Desktop/HomeWork/inference_and_representation/hw5/hmc.py\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/rk4/rk4-experiments/mod_rk2.py\",\n\t\t\"/Users/rsinghal/Desktop/HomeWork/computer_vision/project/stack_gan_experiments/run_job.sh\",\n\t\t\"/Users/rsinghal/Desktop/HomeWork/computer_vision/project/stack_gan_experiments/model.py\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/rk4/rk4-experiments/mnist_rk4.py\",\n\t\t\"/Users/rsinghal/Desktop/DeepLearning/Scripts/rk4/rk4-experiments/rk2.py\",\n\t\t\"/Users/rsinghal/Desktop/deepLearning/Scripts/python_stuff/new_rk4.py\",\n\t\t\"/Users/rsinghal/Library/Application Support/Sublime Text 3/Packages/User/Origami.sublime-settings\",\n\t\t\"/Users/rsinghal/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings\",\n\t\t\"/Users/rsinghal/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings\",\n\t\t\"/Users/rsinghal/Desktop/deepLearning/Scripts/python_stuff/mnist_rk4.py\",\n\t\t\"/Users/rsinghal/Desktop/deepLearning/Scripts/python_stuff/trial.py\",\n\t\t\"/Users/rsinghal/Library/Application Support/Sublime Text 3/Packages/User/AutoPep8.sublime-settings\",\n\t\t\"/Users/rsinghal/Library/Application Support/Sublime Text 3/Packages/AutoPEP8/AutoPep8.sublime-settings\",\n\t\t\"/Users/rsinghal/Desktop/deepLearning/Scripts/python_stuff/rk4_.py\",\n\t\t\"/Users/rsinghal/Library/Application Support/Sublime Text 3/Packages/AutoPEP8/Default.sublime-keymap\",\n\t\t\"/Users/rsinghal/Library/Application Support/Sublime Text 3/Packages/User/sublime_jedi.sublime-settings\"\n\t],\n\t\"find\":\n\t{\n\t\t\"height\": 35.0\n\t},\n\t\"find_in_files\":\n\t{\n\t\t\"height\": 0.0,\n\t\t\"where_history\":\n\t\t[\n\t\t]\n\t},\n\t\"find_state\":\n\t{\n\t\t\"case_sensitive\": false,\n\t\t\"find_history\":\n\t\t[\n\t\t],\n\t\t\"highlight\": true,\n\t\t\"in_selection\": false,\n\t\t\"preserve_case\": false,\n\t\t\"regex\": false,\n\t\t\"replace_history\":\n\t\t[\n\t\t],\n\t\t\"reverse\": false,\n\t\t\"show_context\": true,\n\t\t\"use_buffer2\": true,\n\t\t\"whole_word\": false,\n\t\t\"wrap\": true\n\t},\n\t\"groups\":\n\t[\n\t\t{\n\t\t\t\"sheets\":\n\t\t\t[\n\t\t\t]\n\t\t}\n\t],\n\t\"incremental_find\":\n\t{\n\t\t\"height\": 26.0\n\t},\n\t\"input\":\n\t{\n\t\t\"height\": 35.0\n\t},\n\t\"layout\":\n\t{\n\t\t\"cells\":\n\t\t[\n\t\t\t[\n\t\t\t\t0,\n\t\t\t\t0,\n\t\t\t\t1,\n\t\t\t\t1\n\t\t\t]\n\t\t],\n\t\t\"cols\":\n\t\t[\n\t\t\t0.0,\n\t\t\t1.0\n\t\t],\n\t\t\"rows\":\n\t\t[\n\t\t\t0.0,\n\t\t\t1.0\n\t\t]\n\t},\n\t\"menu_visible\": true,\n\t\"output.autopep8\":\n\t{\n\t\t\"height\": 0.0\n\t},\n\t\"output.exec\":\n\t{\n\t\t\"height\": 110.0\n\t},\n\t\"output.find_results\":\n\t{\n\t\t\"height\": 0.0\n\t},\n\t\"output.git\":\n\t{\n\t\t\"height\": 110.0\n\t},\n\t\"output.latextools\":\n\t{\n\t\t\"height\": 110.0\n\t},\n\t\"output.markdown\":\n\t{\n\t\t\"height\": 110.0\n\t},\n\t\"pinned_build_system\": \"\",\n\t\"project\": \"dcgan.sublime-project\",\n\t\"replace\":\n\t{\n\t\t\"height\": 48.0\n\t},\n\t\"save_all_on_build\": true,\n\t\"select_file\":\n\t{\n\t\t\"height\": 0.0,\n\t\t\"last_filter\": \"\",\n\t\t\"selected_items\":\n\t\t[\n\t\t],\n\t\t\"width\": 0.0\n\t},\n\t\"select_project\":\n\t{\n\t\t\"height\": 0.0,\n\t\t\"last_filter\": \"\",\n\t\t\"selected_items\":\n\t\t[\n\t\t],\n\t\t\"width\": 0.0\n\t},\n\t\"select_symbol\":\n\t{\n\t\t\"height\": 0.0,\n\t\t\"last_filter\": \"\",\n\t\t\"selected_items\":\n\t\t[\n\t\t],\n\t\t\"width\": 0.0\n\t},\n\t\"selected_group\": 0,\n\t\"settings\":\n\t{\n\t},\n\t\"show_minimap\": true,\n\t\"show_open_files\": true,\n\t\"show_tabs\": true,\n\t\"side_bar_visible\": true,\n\t\"side_bar_width\": 170.0,\n\t\"status_bar_visible\": true,\n\t\"template_settings\":\n\t{\n\t}\n}\n",
+			"file": "dcgan.sublime-workspace",
+			"file_size": 10852,
+			"file_write_time": 131576793710000000,
+			"settings":
+			{
+				"buffer_size": 10852,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -195,10 +222,46 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 96.0,
-		"last_filter": "Package Control: remo",
+		"height": 294.0,
+		"last_filter": "git pu",
 		"selected_items":
 		[
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
 			[
 				"Package Control: remo",
 				"Package Control: Remove Package"
@@ -224,10 +287,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"git ",
-				"Git: Commit"
-			],
-			[
 				"",
 				"LaTeXTools: Reset user settings to default"
 			],
@@ -240,7 +299,7 @@
 				"LaTeXTools: Jump to PDF"
 			]
 		],
-		"width": 459.0
+		"width": 495.0
 	},
 	"console":
 	{
@@ -272,10 +331,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/rsinghal/Desktop/HomeWork/computer_vision/project/dcgan"
+		"/Users/rsinghal/Desktop/HomeWork/computer_vision/project/text-to-image/dcgan"
 	],
 	"file_history":
 	[
+		"/Users/rsinghal/Desktop/HomeWork/computer_vision/project/text-to-image/dcgan/dcgan.sublime-project",
+		"/Users/rsinghal/Desktop/HomeWork/computer_vision/project/text-to-image/dcgan/main.py",
 		"/Users/rsinghal/Desktop/optimizerProof/proper_file/main.tex",
 		"/Users/rsinghal/Desktop/optimizerProof/proper_file/notes.tex",
 		"/Users/rsinghal/Desktop/optimizerProof/proper_file/rk2_heun_notStrong.tex",
@@ -326,7 +387,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -340,6 +401,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"auth"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -357,14 +419,100 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "poster_cv/poster_main.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								651,
+								651
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dcgan.sublime-workspace",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 10852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/rsinghal/Desktop/HomeWork/computer_vision/project/text-to-image/dcgan",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -409,6 +557,14 @@
 	{
 		"height": 110.0
 	},
+	"output.git-commit":
+	{
+		"height": 110.0
+	},
+	"output.git-push":
+	{
+		"height": 110.0
+	},
 	"output.latextools":
 	{
 		"height": 110.0
@@ -421,7 +577,7 @@
 	"project": "dcgan.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -459,7 +615,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 170.0,
+	"side_bar_width": 219.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

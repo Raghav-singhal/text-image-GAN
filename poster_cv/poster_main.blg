@@ -1,7 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: poster_main.aux
-The style file: unsrt.bst
+The style file: plain.bst
 Database file #1: sample.bib
 Warning--entry type for "gnu" isn't style-file defined
 --line 20 of file sample.bib
@@ -29,56 +29,56 @@ Warning--entry type for "pi" isn't style-file defined
 --line 83 of file sample.bib
 Warning--entry type for "alfa" isn't style-file defined
 --line 90 of file sample.bib
-Warning--all relevant fields are empty in gnu
-Warning--all relevant fields are empty in a
-Warning--all relevant fields are empty in zeta
-Warning--all relevant fields are empty in egne
-Warning--all relevant fields are empty in ene
-Warning--all relevant fields are empty in nuname
-Warning--all relevant fields are empty in exclam
-Warning--all relevant fields are empty in interr
-Warning--all relevant fields are empty in ASCII
-Warning--all relevant fields are empty in bit
-Warning--all relevant fields are empty in bibtex8
-Warning--all relevant fields are empty in pi
-Warning--all relevant fields are empty in alfa
+Warning--to sort, need author or key in gnu
+Warning--to sort, need author or key in a
+Warning--to sort, need author or key in zeta
+Warning--to sort, need author or key in egne
+Warning--to sort, need author or key in ene
+Warning--to sort, need author or key in nuname
+Warning--to sort, need author or key in exclam
+Warning--to sort, need author or key in interr
+Warning--to sort, need author or key in ASCII
+Warning--to sort, need author or key in bit
+Warning--to sort, need author or key in bibtex8
+Warning--to sort, need author or key in pi
+Warning--to sort, need author or key in alfa
 You've used 13 entries,
-            1791 wiz_defined-function locations,
-            459 strings with 3585 characters,
-and the built_in function-call counts, 1062 in all, are:
-= -- 13
+            2118 wiz_defined-function locations,
+            511 strings with 4060 characters,
+and the built_in function-call counts, 1803 in all, are:
+= -- 104
 > -- 13
 < -- 0
 + -- 13
 - -- 0
-* -- 15
-:= -- 50
+* -- 67
+:= -- 154
 add.period$ -- 13
 call.type$ -- 13
-change.case$ -- 0
+change.case$ -- 26
 chr.to.int$ -- 0
 cite$ -- 26
-duplicate$ -- 65
-empty$ -- 235
+duplicate$ -- 91
+empty$ -- 300
 format.name$ -- 0
-if$ -- 261
+if$ -- 430
 int.to.chr$ -- 0
 int.to.str$ -- 13
 missing$ -- 0
 newline$ -- 42
 num.names$ -- 0
-pop$ -- 65
+pop$ -- 104
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 26
 quote$ -- 0
-skip$ -- 129
+skip$ -- 155
 stack$ -- 0
-substring$ -- 0
+substring$ -- 65
 swap$ -- 13
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 52
 warning$ -- 13
 while$ -- 0
 width$ -- 15
