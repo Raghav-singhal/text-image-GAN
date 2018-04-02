@@ -1,0 +1,10 @@
+
+# flowers dataset
+flowers_images_path: './flower_dataset/'
+flowers_embedding_path: './flower_dataset/flowers_icml/'
+flowers_text_path: './flower_dataset/cvpr2016_flowers/text_c10/'
+flowers_dataset_path: './flower_dataset/flowers.hdf5'
+
+flowers_val_split_path: './flower_dataset/flowers_icml/valclasses.txt'
+flowers_train_split_path: './flower_dataset/flowers_icml/trainclasses.txt'
+flowers_test_split_path: './flower_dataset/flowers_icml/testclasses.txt'
